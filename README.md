@@ -39,8 +39,8 @@ Esta etapa tem 12 exercícios:
  1) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_1.ipynb) é verificado a compreensão dos tipos de dados e da sintaxe, além de realizar a analise das estruturas.
  2) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_2.ipynb) é verificado importação de pacotes, criação de NDArrays, geração de dados e a construção de funções.
  3) Neste [exercício](Ehttps://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_3.ipynb) é verificado a utilização do Pandas para construção e manipulação de Dataframes.
- 4)Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_4.ipynb) aprofundamos a utilização do Pandas para construção e manipulação de Dataframes. 
- 5)Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_5.ipynb) utilizamos APIs para criar nosso Dataframe, depois salvamos esse Dataframe como um arquivo.
+ 4) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_4.ipynb) aprofundamos a utilização do Pandas para construção e manipulação de Dataframes. 
+ 5) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_5.ipynb) utilizamos APIs para criar nosso Dataframe, depois salvamos esse Dataframe como um arquivo.
  6) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_6.ipynb) trabalhamos com dados duplicados, missing values e categorização de variaveis.
  7) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_7.ipynb) aprofundamos o trabalho com dados duplicados, missing values e categorização de variaveis.
  8) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_8.ipynb) iniciamos os estudos das bibliotecas Matplotlib e Seaborn. 
