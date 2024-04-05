@@ -4,12 +4,6 @@
 1. [O que é o curso?](#0)
 2. [Etapa 1](#1)
 3. [Etapa 2](#2)
-4. [Etapa 3](#3)
-5. [Etapa 4](#4)
-6. [Etapa 5](#5)
-7. [Etapa 6](#6)
-8. [Etapa 7](#7)
-9. [Etapa 8](#8)
 
 # 1. O que é o curso? <a name="0"></a>
 
@@ -29,7 +23,7 @@ Esta primeira etapa sera disponibilizada em breve,pois estou atualizando meus co
 
 [Voltar ao índice](#indice)
 
-# 2. Etapa 2 <a name="2"></a>
+# 3. Etapa 2 <a name="2"></a>
 
 <div style="text-align: right"
 
