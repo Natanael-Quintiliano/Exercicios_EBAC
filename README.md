@@ -51,6 +51,8 @@ Esta etapa tem 12 exercícios:
 ![image](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/assets/67382637/925a458c-d2fe-47c8-8cd4-bfa219ef923d)
 
 Estou realizando a terceira etapa, disponibilizarei os exercicios conforme for realizando.
+Exercícios:
+ 1) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_3/Exercicio_1.ipynb) é verificado a compreensão sobre agrupamentos e agregações.
 
 [Voltar ao índice](#indice)
 
