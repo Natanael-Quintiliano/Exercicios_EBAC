@@ -44,3 +44,15 @@ Esta etapa tem 12 exercícios:
  12) Neste [exercício](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/blob/main/Etapa_2/Exercicio_12.ipynb) aprofundamos os estudos sobre Scikit-Learn e iniciamos a construção de arvores de decisão. 
 
 [Voltar ao índice](#indice)
+# 4. Etapa 3 <a name="3"></a>
+
+<div style="text-align: right"
+ 
+![image](https://github.com/Natanael-Quintiliano/Exercicios_EBAC/assets/67382637/925a458c-d2fe-47c8-8cd4-bfa219ef923d)
+
+Estou realizando a terceira etapa, disponibilizarei os exercicios conforme for realizando.
+
+[Voltar ao índice](#indice)
+
+
+
